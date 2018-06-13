@@ -17,7 +17,7 @@ const Generic = (props) => (
                     <header className="major">
                         <h1>Recent Events</h1>
                     </header>
-                    <p>Under process!</p>
+                    <p>Not updated</p>
                     <p>Check back soon..</p>
 
                 </div>
