@@ -7,8 +7,8 @@ import pic11 from '../assets/images/pic11.jpg'
 const Generic = (props) => (
     <div>
         <Helmet>
-            <title>Wings Banquet Hall</title>
-            <meta name="Wings Banquet Hall" content="Wings Banquet Hall" />
+            <title>BKR Convention Centre</title>
+            <meta name="BKR Convention Centre" content="BKR Convention Centre" />
         </Helmet>
 
         <div id="main" className="alt">
@@ -17,8 +17,8 @@ const Generic = (props) => (
                     <header className="major">
                     <h1>Seating Capacity</h1>
                     </header>
-                    <p>Shalom Banquet Hall 50px - 350px</p>
-                    <p>Terrace Banquet Hall 50px - 125px</p>
+                    <p>Convention Hall 100px - 350px</p>
+
 
 
                 </div>

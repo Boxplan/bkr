@@ -199,7 +199,7 @@ class Template extends React.Component {
                 <Menu onToggleMenu={this.handleToggleMenu} />
                 <div
                     data-start="What Event are you planning ?"
-                    data-greet="Wings Banquet Hall"
+                    data-greet="BKR Convention Centre"
                     data-float="1"
                     data-vendorMail=""
                     data-light="#EEF2F5"
@@ -212,12 +212,12 @@ class Template extends React.Component {
                     data-justgyan=""
                     data-jumbo="Instant Response"
                     data-fl="bq"
-                    data-city="bangalore"
-                    data-hotd="10014838"
-                    data-avtar="https://s3.ap-south-1.amazonaws.com/chainsite/wings/wings-small.png"
-                    data-img="https://s3-ap-southeast-1.amazonaws.com/vsimg1/propimages/Shalom-Banquet-Hall-at-Wings-view-from-stage.jpg"
-                    data-cityd="6053307"
-                    data-bt="95"
+                    data-city="chennai"
+                    data-hotd="10022291"
+                    data-avtar="https://s3.ap-south-1.amazonaws.com/chainsite/bkr/bkr-small.jpg"
+                    data-img="https://s3-ap-southeast-1.amazonaws.com/vsimg1/propimages/BKR-Grand-and-Guinness-3.JPG"
+                    data-cityd="181449"
+                    data-bt="97"
                     id="bot">
                 </div>
 

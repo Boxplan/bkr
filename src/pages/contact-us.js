@@ -7,8 +7,8 @@ import pic11 from '../assets/images/pic11.jpg'
 const Generic = (props) => (
     <div>
         <Helmet>
-            <title>Wings Banquet Hall</title>
-            <meta name="Wings Banquet Hall" content="Wings Banquet Hall" />
+            <title>BKR Convention Centre</title>
+            <meta name="BKR Convention Centre" content="BKR Convention Centre" />
         </Helmet>
 
         <div id="main" className="alt">
@@ -17,8 +17,8 @@ const Generic = (props) => (
                     <header className="major">
                         <h1>Contact Us</h1>
                     </header>
-                    <p>Wings House, No. 236, 5th Main, 2nd Block, HRBR Layout, Bangalore - 560043</p>
-                    <p>+91 80 39345194</p>
+                    <p>32, Venkatesan Street, T Nagar, Chennai 600017</p>
+                    <p>+91 44 11111111</p>
 
                     </div>
             </section>

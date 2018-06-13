@@ -30,8 +30,8 @@ class HomeIndex extends React.Component {
         {
             "@context": "http://schema.org",
             "@type": "LocalBusiness",
-            "@id": "http://www.wingsbanquethall.com",
-            "name": "Wings Banquet Hall",
+            "@id": "http://www.bkr.com",
+            "name": "BKR Convention",
             "image": ["http://www.shibravyicourtyard.com/static/pic22.3739db65.jpg,http://www.shibravyicourtyard.com/static/pic31.bf1f841b.jpg,http://www.shibravyicourtyard.com/static/pic27.aace32c0.jpg,http://www.shibravyicourtyard.com/static/pic21.badd0ad4.jpg"],
             "address": {
             "@type": "PostalAddress",
@@ -53,14 +53,14 @@ class HomeIndex extends React.Component {
                 "latitude": 13.020812,
                 "longitude": 77.636105
         },
-            "url": "http://www.wingsbanquethall.com",
+            "url": "http://www.bkr.com",
             "telephone": " +918039345194",
 
             "potentialAction": {
             "@type": "ReserveAction",
                 "target": {
                 "@type": "EntryPoint",
-                    "urlTemplate": "http://www.wingsbanquethall.com",
+                    "urlTemplate": "http://www.bkr.com",
                     "inLanguage": "en-US",
                     "actionPlatform": "http://schema.org/DesktopWebPlatform"
 
@@ -77,8 +77,8 @@ class HomeIndex extends React.Component {
         return (
             <div>
                 <Helmet>
-                    <title>Wings Banquet Hall</title>
-                    <meta name="description" content='Wings banquet and party hall in Kammanahalli HRBR Bangalore ' />
+                    <title>BKR Convention Centre</title>
+                    <meta name="description" content='BKR Convention Centre, T Nagar, Chennai' />
                     <script type="application/ld+json">
                         {JSON.stringify(schemaOrgJsonLd)}
                     </script>
@@ -86,38 +86,38 @@ class HomeIndex extends React.Component {
 
                 <div id="main" >
                     <section className="tiles">
-                        <article style={{backgroundImage:`url(https://s3-ap-southeast-1.amazonaws.com/vsimg1/propimages/Shalom-Banquet-Hall-at-Wings-pic--27.jpg)`}}>
+                        <article style={{backgroundImage:`url()`}}>
                             <header className="major">
-                                <h3>Wings Banquet Hall</h3>
-                                <p>One that will be remembered forever.</p>
+                                <h3>BKR Convention Centre</h3>
+                                <p>BKR Convention Centre in T.Nagar Chennai ideal for weddings and conventions.</p>
                             </header>
                             <Link to="/venues" className="link primary"></Link>
                         </article>
 
-                        <article style={{backgroundImage:`url(https://s3-ap-southeast-1.amazonaws.com/vsimg1/propimages/Shalom-Banquet-Hall-at-Wings-view-from-stage.jpg)`}}>
+                        <article style={{backgroundImage:`url(https://s3-ap-southeast-1.amazonaws.com/vsimg1/propimages/BKR-Grand-and-Guinness-2.JPG)`}}>
                             <header className="major">
                                 <h3>Packages</h3>
-                                <p>4 | 6 | 12 Hour Rental Package Available</p>
+                                <p>Package includes food menu option and usage of banquet hall</p>
                             </header>
                             <Link to="/packages" className="link primary"></Link>
                         </article>
 
-                        <article style={{backgroundImage:`url(https://s3-ap-southeast-1.amazonaws.com/vsimg1/propimages/Shalom-Banquet-Hall-at-Wings-right-view-from-stage.jpg)`}}>
+                        <article style={{backgroundImage:`url(https://s3-ap-southeast-1.amazonaws.com/vsimg1/propimages/Banquet-Hall-at-BKR-Grand-T-Nagar-bkr-convention-hall-2.jpg)`}}>
                             <header className="major">
                                 <h3>Capacity Info</h3>
-                                <p>WIngs has 2 halls which can accommodate from 50 to 350 Guests</p>
+                                <p>Convention hall can accommodate from 100 to 350 Guests</p>
                             </header>
                             <Link to="/capacity" className="link primary"></Link>
                         </article>
 
-                        <article style={{backgroundImage:`url(https://s3-ap-southeast-1.amazonaws.com/vsimg1/propimages/Wings-Shalom-Banquet-IMG-20160504-WA0044.jpg)`}}>
+                        <article style={{backgroundImage:`url(https://s3.ap-south-1.amazonaws.com/chainsite/bkr/bkr-convention-hall-26.jpg)`}}>
                             <header className="major">
                                 <h3>Gallery</h3>
                                 <p>Images, Virtual Tour</p>
                             </header>
                             <Link to="/images" className="link primary"></Link>
                         </article>
-                        <article style={{backgroundImage:`url(https://s3-ap-southeast-1.amazonaws.com/vsimg1/propimages/Wings-Shalom-Banquet-IMG-20160504-WA0003.jpg)`}}>
+                        <article style={{backgroundImage:`url()`}}>
                             <header className="major">
                                 <h3>Recent Events</h3>
                                 <p>Weddings, Family Events, Parties</p>
@@ -125,10 +125,10 @@ class HomeIndex extends React.Component {
                             <Link to="/recent-events" className="link primary"></Link>
                         </article>
 
-                        <article style={{backgroundImage:`url(https://s3-ap-southeast-1.amazonaws.com/vsimg1/propimages/Shalom-Banquet-Hall-at-Wings-5965ffc9b25f48148770306c_bald-eagle-2030735_1280.jpg)`}}>
+                        <article style={{backgroundImage:`url()`}}>
 
                             <header className="major">
-                                <h3>+91 80 39345194</h3>
+                                <h3>+91 44 11111111</h3>
                                 <p>Address | Location</p>
                             </header>
                             <Link to="/contact-us" className="link primary"></Link>
