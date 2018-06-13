@@ -17,7 +17,7 @@ const Generic = (props) => (
                     <header className="major">
                         <h1>BKR Convention Centre</h1>
                     </header>
-                    <p>BKR Convention Centre is ideal for weddings and conventions.</p>
+                    <p>BKR Convention Centre in T.Nagar Chennai ideal for weddings and conventions.</p>
 
                 </div>
             </section>

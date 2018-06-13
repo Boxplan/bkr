@@ -89,7 +89,7 @@ class HomeIndex extends React.Component {
                         <article style={{backgroundImage:`url()`}}>
                             <header className="major">
                                 <h3>BKR Convention Centre</h3>
-                                <p>BKR Convention Centre in T.Nagar Chennai ideal for weddings and conventions.</p>
+                                <p>Ideal for weddings and conventions</p>
                             </header>
                             <Link to="/venues" className="link primary"></Link>
                         </article>
