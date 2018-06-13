@@ -8,7 +8,7 @@ const Generic = (props) => (
     <div>
         <Helmet>
             <title>BKR Convention Centre</title>
-            <meta name="BKR Convention Centre" content="BKR Convention Centre" />
+            <meta name="desciption" content="Recent events" />
         </Helmet>
 
         <div id="main" className="alt">
@@ -17,8 +17,7 @@ const Generic = (props) => (
                     <header className="major">
                         <h1>Recent Events</h1>
                     </header>
-                    <p>Not updated</p>
-                    <p>Check back soon..</p>
+                    <p>To be implemented after going live</p>
 
                 </div>
             </section>

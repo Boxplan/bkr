@@ -8,7 +8,9 @@ const Generic = (props) => (
     <div>
         <Helmet>
             <title>BKR Convention Centre</title>
-            <meta name="BKR Convention Centre" content="BKR Convention Centre" />
+            <meta name="description" content="Our Convention Centre is located in T.Nagar and ideally placed for banquets and events that draw guests from
+                        all over Chennai. Ideal for Weddings and and large social events like birthday parties, naming ceremony, farewell events
+                        , we also host a number of corporate events and conventions." />
         </Helmet>
 
         <div id="main" className="alt">
@@ -17,7 +19,9 @@ const Generic = (props) => (
                     <header className="major">
                         <h1>BKR Convention Centre</h1>
                     </header>
-                    <p>BKR Convention Centre in T.Nagar Chennai ideal for weddings and conventions.</p>
+                    <p>Our Convention Centre is located in T.Nagar and ideally placed for banquets and events that draw guests from
+                        all over Chennai. Ideal for Weddings and and large social events like birthday parties, naming ceremony, farewell events
+                        , we also host a number of corporate events and conventions.</p>
 
                 </div>
             </section>
